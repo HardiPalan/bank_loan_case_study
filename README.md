@@ -5,7 +5,11 @@ The bank is facing challenges, they are facing financial losses and losing busin
 
 Tasks:-
 A.Identify Missing Data and Deal with it Appropriately.
+
 B.Identify Outliers in the Dataset.
+
 C.Analyze Data Imbalance.
+
 D.Perform Univariate, Segmented Univariate, and Bivariate Analysis.
-E.Identify Top Correlations for Different Scenarios
+
+E.Identify Top Correlations for Different Scenarios.
